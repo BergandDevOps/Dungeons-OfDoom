@@ -16,6 +16,11 @@ Klassversionen av Dungeons of Doom!
 7. **Jens** - Fler Monster
 8. Monster class med Arv! Varje monster typ ska ärva Monsters egenskaper och sedan ha sina egna. T.ex skeleton ärver Monster klassen men har egna attributes som t.ex mer HP!
 10. Health Potion!
+11. Skapa en Displayclass som sköter alla console.Writeline för att separera spellogik och visualisering (tänk MVC)**Emil**
+12. Skapa en Controller Class som sköter all insamling och hantering av input från användaren
+13. skapa en basklass som allt som kan displayas ärver från**Emil**
+14. Förbättrad världgenerering
+15. Utökad UI, tex visa inventory, attributes, combat dialog (Görs rimligen efter utbyggnad av displayclassen)
 
 # Work in progress
 Jean-Christophe - Player attributes
